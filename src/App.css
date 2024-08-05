@@ -68,3 +68,18 @@ table > caption {
   justify-content: space-between;
   width: 80%;
 }
+
+@media (max-width: 780px) {
+  #root {
+    padding: 100px 20px;
+    font-size: 0.5rem;
+  }
+
+  table {
+    width: 100%;
+  }
+
+  .button-wrapper {
+    width: 100%;
+  }
+}
