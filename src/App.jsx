@@ -28,7 +28,7 @@ function App() {
     <>
       <main>
         <table>
-          <caption>CERTIFICATION UNIT ROOSTER FROM SEPTEMBER ONWARDS</caption>
+          <caption>CERTIFICATION UNIT ROSTER FROM SEPTEMBER ONWARDS</caption>
           <thead>
             <th>Week</th>
             <th>Information</th>
